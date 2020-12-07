@@ -985,7 +985,7 @@ ul.simplefilter {
 	background: #000;
 	opacity: 0;
 	position: absolute;
-	width: 100%;
+	width: 108%;
 	height: 100%;
 	top: 0;
 	left: 0;
@@ -1069,7 +1069,7 @@ p.w3ls-p-text {
     text-transform: capitalize;
 }
 .ins-details p{
-	font-size:1em;
+	font-size:2em;
 	line-height:1.8em;
 }
 
