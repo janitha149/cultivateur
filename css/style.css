@@ -586,10 +586,10 @@ li.agile-it-adress-left b {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-about-grid-right1 p {
-    line-height: 1.8em;
-    font-size: 1em;
+    line-height: 0.8em;
+    font-size: 2em;
     margin: 2em 0;
-	    color: #151010;
+	    color: #4a4949;
 }
 .w3-about-grid-right1 h5 {
     font-size: 1.3em;
